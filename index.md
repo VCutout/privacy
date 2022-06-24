@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## 隐私政策
 
-You can use the [editor on GitHub](https://github.com/VCutout/privacy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本应⽤尊重并保护所有使用服务用户的个⼈隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个⼈信息。但本应⽤将以⾼度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三⽅提供。本应⽤会不时更新本隐私权政策。您在使用本应用服务时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的⼀部分。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###1.适用范围 
 
-### Markdown
+a)在您使用本应用服务时，您根据本应用要求授权相关权限; 如果未授权相关权限，部分功能将无法正常使用。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###2.信息的使用 
 
-```markdown
-Syntax highlighted code block
+a)在获得您的访问权限之后，本应用会将会使用这些权限提供服务。
 
-# Header 1
-## Header 2
-### Header 3
+b)本应用不会擅自使用未经许可的权限。
 
-- Bulleted
-- List
+###3.信息披露
 
-1. Numbered
-2. List
+a)本应用不会将您的信息披露给不受信任的第三⽅。 
 
-**Bold** and _Italic_ and `Code` text
+b)根据法律的有关规定，或者⾏政或司法机构的要求，向第三⽅或者行政、司法机构披露; 
 
-[Link](url) and ![Image](src)
-```
+c)如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露; 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+###4.信息存储和交换
 
-### Jekyll Themes
+a)本应用产生的有关您的数据将保存在本应用沙盒中，存储于本地，不会主动上传至任何服务器，请放心使用。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VCutout/privacy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###5.信息安全
+a)本应用数据存储于本应用沙盒中，请妥善保管自己的设备。
